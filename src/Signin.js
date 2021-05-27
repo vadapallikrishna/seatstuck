@@ -22,8 +22,7 @@ function Signin() {
     w={'full'}
     bg={useColorModeValue('white', 'gray.900')}
     shadow={'lg'}
-    rounded={'lg'}
-    p={6}>
+    rounded={'lg'}>
     <Stack minH={'100vh'} direction={'column'}>
         <Heading fontSize={'2xl'}>Sign in to your account</Heading>
         <FormControl id="email">

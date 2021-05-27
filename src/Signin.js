@@ -1,14 +1,10 @@
 import {
   Button,
-  Checkbox,
-  Flex,
   FormControl,
   FormLabel,
   Heading,
   Input,
-  Link,
   Stack,
-  Image,
   Box,
   Center,
   useColorModeValue

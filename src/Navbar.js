@@ -1,12 +1,9 @@
 import { Box, 
 HStack, 
 Text, 
-Stack,
 Button,
 Input,
-useColorModeValue,
-Spacer,
-useBreakpointValue } from "@chakra-ui/react";
+useColorModeValue } from "@chakra-ui/react";
 function Navbar() {
     return <Box>
         <HStack
